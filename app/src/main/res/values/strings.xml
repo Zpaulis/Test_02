@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Test_02</string>
+    <string name="Text_1">Hi, people! It\'s not clear yet, what I\'m doing, but will see :)</string>
+    <string name="Text_2">Layout design testing</string>
+</resources>
